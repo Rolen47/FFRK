@@ -86,7 +86,7 @@ Loop
 		Gosub, ClickOnFoundImage
 		Sleep 2000
 		}
-	ImageSearch, FoundX, FoundY, 0, 0, %SearchWidth%, %SearchHeight%, *80 %A_ScriptDir%\images\enter.png
+	ImageSearch, FoundX, FoundY, 0, 0, %SearchWidth%, %SearchHeight%, *80 %A_ScriptDir%\images\enterdungeon.png
 	If (ErrorLevel = 0)
 		{
 		Gosub, ClickOnFoundImage
