@@ -1,5 +1,10 @@
 # Labyrinth Walker
 
+NOTE: This project is abandoned. Please use FFRK-LabMem instead:
+
+https://github.com/HughJeffner/FFRK-LabMem
+
+
 This Autohotkey script goes through the Labyrinth dungeons in Final Fantasy Record Keeper semi-automatically. It will play an alarm whenever a Treasure Room is entered so you can choose which chests to open.
 
 Requirements:
